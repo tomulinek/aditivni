@@ -9,14 +9,6 @@
     "created_at": "2025-07-25T20:45:07.906Z"
   },
   {
-    "id": "2",
-    "title": "Medicínské aplikace aditivní výroby",
-    "content": "Ve zdravotnictví se 3D tisk používá pro výrobu protéz, dentálních implantátů a dokonce i biotisků živých tkání. Personalizovaná medicína získává nový rozměr díky těmto technologiím.",
-    "link": "https://www.example.com/medical-3d-printing",
-    "date": "2025-01-10",
-    "image": "https://via.placeholder.com/400x225/d80c13/ffffff?text=Medical+3D"
-  },
-  {
     "id": "3",
     "title": "Letecký průmysl a pokročilé materiály",
     "content": "Letecké společnosti investují do 3D tisku pro výrobu lehkých, ale pevných komponentů. Titanové a kompozitní materiály umožňují vytváření složitých geometrií.",
