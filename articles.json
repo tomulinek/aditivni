@@ -9,14 +9,6 @@
     "created_at": "2025-07-25T20:45:07.906Z"
   },
   {
-    "id": "3",
-    "title": "Letecký průmysl a pokročilé materiály",
-    "content": "Letecké společnosti investují do 3D tisku pro výrobu lehkých, ale pevných komponentů. Titanové a kompozitní materiály umožňují vytváření složitých geometrií.",
-    "link": "https://www.example.com/aerospace-3d-printing",
-    "date": "2025-01-05",
-    "image": "https://via.placeholder.com/400x225/08437f/ffffff?text=Aerospace+3D"
-  },
-  {
     "id": "4",
     "title": "Udržitelnost a ekologické aspekty 3D tisku",
     "content": "3D tisk přispívá k udržitelnosti díky menšímu množství odpadu, lokální výrobě a možnosti recyklace materiálů. Zelené technologie jsou budoucností výroby.",
