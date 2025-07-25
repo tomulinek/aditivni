@@ -9,14 +9,6 @@
     "created_at": "2025-07-25T20:45:07.906Z"
   },
   {
-    "id": "5",
-    "title": "Průmysl 4.0 a chytrá výroba",
-    "content": "Integrace 3D tisku do konceptu Průmyslu 4.0 umožňuje automatizovanou, flexibilní výrobu řízenou umělou inteligencí a IoT senzory.",
-    "link": "https://www.example.com/industry-4-3d-printing",
-    "date": "2024-12-20",
-    "image": "https://via.placeholder.com/400x225/08437f/ffffff?text=Industry+4.0"
-  },
-  {
     "id": "6",
     "title": "3D tisk kovů ve strojírenství",
     "content": "Kovový 3D tisk revolučně mění strojírenství. Technologie jako SLM a EBM umožňují výrobu vysoce pevných dílů s komplexními vnitřními strukturami.",
