@@ -9,15 +9,7 @@
     "created_at": "2025-07-25T20:45:07.906Z"
   },
   {
-    "id": 1,
-    "title": "3D tisk v automobilovém průmyslu",
-    "content": "Automobilový průmysl využívá 3D tisk pro prototypování, výrobu nástrojů a dokonce i finálních dílů. Technologie umožňuje rychlé testování nových designů a snižuje náklady na vývoj.",
-    "link": "https://www.example.com/automotive-3d-printing",
-    "date": "2025-01-15",
-    "image": "https://via.placeholder.com/400x225/08437f/ffffff?text=Automotive+3D"
-  },
-  {
-    "id": 2,
+    "id": "2",
     "title": "Medicínské aplikace aditivní výroby",
     "content": "Ve zdravotnictví se 3D tisk používá pro výrobu protéz, dentálních implantátů a dokonce i biotisků živých tkání. Personalizovaná medicína získává nový rozměr díky těmto technologiím.",
     "link": "https://www.example.com/medical-3d-printing",
@@ -25,7 +17,7 @@
     "image": "https://via.placeholder.com/400x225/d80c13/ffffff?text=Medical+3D"
   },
   {
-    "id": 3,
+    "id": "3",
     "title": "Letecký průmysl a pokročilé materiály",
     "content": "Letecké společnosti investují do 3D tisku pro výrobu lehkých, ale pevných komponentů. Titanové a kompozitní materiály umožňují vytváření složitých geometrií.",
     "link": "https://www.example.com/aerospace-3d-printing",
@@ -33,7 +25,7 @@
     "image": "https://via.placeholder.com/400x225/08437f/ffffff?text=Aerospace+3D"
   },
   {
-    "id": 4,
+    "id": "4",
     "title": "Udržitelnost a ekologické aspekty 3D tisku",
     "content": "3D tisk přispívá k udržitelnosti díky menšímu množství odpadu, lokální výrobě a možnosti recyklace materiálů. Zelené technologie jsou budoucností výroby.",
     "link": "https://www.example.com/sustainable-3d-printing",
@@ -41,7 +33,7 @@
     "image": "https://via.placeholder.com/400x225/d80c13/ffffff?text=Sustainable+3D"
   },
   {
-    "id": 5,
+    "id": "5",
     "title": "Průmysl 4.0 a chytrá výroba",
     "content": "Integrace 3D tisku do konceptu Průmyslu 4.0 umožňuje automatizovanou, flexibilní výrobu řízenou umělou inteligencí a IoT senzory.",
     "link": "https://www.example.com/industry-4-3d-printing",
@@ -49,7 +41,7 @@
     "image": "https://via.placeholder.com/400x225/08437f/ffffff?text=Industry+4.0"
   },
   {
-    "id": 6,
+    "id": "6",
     "title": "3D tisk kovů ve strojírenství",
     "content": "Kovový 3D tisk revolučně mění strojírenství. Technologie jako SLM a EBM umožňují výrobu vysoce pevných dílů s komplexními vnitřními strukturami.",
     "link": "https://www.example.com/metal-3d-printing",
